@@ -1,5 +1,5 @@
 <div align="center">
-      <h1> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" width="80px"><br/>SQL WorkSpace</h1>
+      <h1> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" width="150px"><br/>SQL WorkSpace</h1>
 </div>
 <p align="center"> <a href="https://www.linkedin.com/in/chiraggupta1706/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=normal&logo=linkedin&logoColor=white" style="vertical-align:center" /></a> </p>
 
@@ -27,8 +27,8 @@ Topics Covered in this repository:
 # Additional Resources
 Here are some additional resources to help you learn SQL:
 
-- [SQL Server Tutorial](https://www.sqlservertutorial.net/):  A comprehensive guide to SQL Server, including tutorials, tips, and tricks.
-- [PostgreSQL Tutorial](https://www.postgresqltutorial.com/):  A detailed PostgreSQL tutorial with step-by-step instructions and examples.
-- [TutorialsTeacher - SQL](https://www.tutorialsteacher.com/sql):  Beginner-friendly SQL tutorials with practical examples.
-- [TutorialsPoint - SQL](https://www.tutorialspoint.com/sql/index.htm):  Extensive SQL tutorial covering all aspects of SQL.
-- [JavaTpoint - SQL Tutorial](https://www.javatpoint.com/sql-tutorial):  Detailed SQL tutorials with examples and exercises for practice.
+- [SQL Server Tutorial](https://www.sqlservertutorial.net/): A comprehensive guide to SQL Server, including tutorials, tips, and tricks.
+- [PostgreSQL Tutorial](https://www.postgresqltutorial.com/): A detailed PostgreSQL tutorial with step-by-step instructions and examples.
+- [TutorialsTeacher - SQL](https://www.tutorialsteacher.com/sql): Beginner-friendly SQL tutorials with practical examples.
+- [TutorialsPoint - SQL](https://www.tutorialspoint.com/sql/index.htm): Extensive SQL tutorial covering all aspects of SQL.
+- [JavaTpoint - SQL Tutorial](https://www.javatpoint.com/sql-tutorial): Detailed SQL tutorials with examples and exercises for practice.
