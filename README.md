@@ -1,5 +1,5 @@
 <div align="center">
-      <h1> <img src="![image](https://github.com/chirag876/SQLWorkSpace/assets/108919262/c4456288-a94a-4a81-a946-f14d27985edf)" width="150px"><br/>SQL WorkSpace</h1>
+      <h1> <img src="https://icon2.cleanpng.com/20180802/fh/kisspng-clip-art-microsoft-azure-sql-database-microsoft-sq-skills-5b63119fad8f06.3803801615332192317109.jpg" width="150px"><br/>SQL WorkSpace</h1>
 </div>
 <p align="center"> <a href="https://www.linkedin.com/in/chiraggupta1706/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=normal&logo=linkedin&logoColor=white" style="vertical-align:center" /></a> </p>
 
